@@ -203,9 +203,6 @@ kiểu dáng*/
     margin-top: 25px;
     text-shadow: 0 0 1px;
 }
-#content{
-   
-}
 #content .content-section{
     width:800px;
     max-width: 100%;
@@ -499,7 +496,7 @@ kiểu dáng*/
     width: 100%;
 }
 
-@media {
+/*@media {
 
 }
 /*
